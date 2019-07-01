@@ -1,0 +1,14 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="10386_Harp-L1.obj" filename="Harp_V1_L1.123cb2089809-8748-4457-b5e9-0cd408e0b9b6/10386_Harp-L1.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
